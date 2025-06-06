@@ -1,0 +1,65 @@
+@media (max-device-width: 480px){
+.foto{
+    height: auto;
+    width: 100% !important;
+    display: block;
+    position: absolute;
+    top: 3%;
+    left: 0.5%;
+}
+
+.tikTok{
+    height: 20% !important;
+    position: absolute;
+    top: 95% !important;
+    left: 10% !important;
+}
+
+.insta{
+    height: 20% !important;
+    position: absolute;
+    top: 95% !important;
+    left: 65% !important;
+}
+
+.text1{
+    font-size: 100% !important;
+    position: absolute;
+    top: 120% !important;
+    left: 2% !important;
+}
+
+.after1{
+    position: absolute;
+    top: 140% !important;
+    left: 80% !important;
+}
+
+.cont1{
+    height: 20% !important;
+    position: absolute;
+    left: 1% !important;
+    top: 43% !important;
+}
+
+.cont1{
+    height: 20% !important;
+    position: absolute;
+    left: 1% !important;
+    top: 43% !important;
+}
+
+.cont2{
+    height: 20% !important;
+    position: absolute;
+    left: 75% !important;
+    top: 30% !important;
+}
+
+.cont3{
+    height: 8% !important;
+    position: absolute;
+    left: 10% !important;
+    top: 20% !important;
+}
+}
